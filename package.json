@@ -15,7 +15,7 @@
     "react": "^16.13.0",
     "react-beautiful-dnd": "^13.0.0",
     "react-dom": "^16.13.0",
-    "react-scripts": "3.4.0",
+    "react-scripts": "5.0.1",
     "react-virtualized": "^9.21.2",
     "react-window": "^1.8.5",
     "typescript": "^3.9.5"
